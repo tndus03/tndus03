@@ -21,7 +21,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tndus03&show_icons=true&theme=buefy)
 
   ## 🔨Features🔨
-  <hr />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
@@ -32,7 +31,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
   
-  <hr />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tndus03&layout=compact)](https://github.com/tndus03/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tndus03&layout=compact&theme=dracula)
 
 </div>
